@@ -6,10 +6,10 @@ See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submi
 
 See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
 
-Example [Light Theme]
+Example [Dark Theme]
 
 <img src='screenshot1.gif' width='350'>
 
-Example [Dark Theme]
+Example [Light Theme]
 
 <img src='screenshot2.gif' width='350'>
