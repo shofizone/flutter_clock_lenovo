@@ -4,7 +4,7 @@ Welcome to Flutter Clock!
 
 See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submission requirements, contest rules, and FAQs.
 
-See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
+See a [live demo](http://flutter-clock-lenovo.surge.sh/) with Flutter for Web!
 
 Example [Dark Theme]
 
