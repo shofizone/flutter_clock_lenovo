@@ -2,7 +2,6 @@
 
 Welcome to Flutter Clock!
 
-See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submission requirements, contest rules, and FAQs.
 
 See a [live demo](http://flutter-clock-lenovo.surge.sh/) with Flutter Clock for Web!
 
@@ -20,3 +19,6 @@ Example [Light Theme]
 - ```cd lenovo_clock```
 - ```flutter create .```
 - ```flutter run``` (on Android or iOS in landscape)
+
+# License
+flutter_clock_lenovo is released under a  BSD 3 license. See LICENSE for details.
